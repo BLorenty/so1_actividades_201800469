@@ -1,4 +1,8 @@
-Realizar lo siguiente:
-
-Preguntar a dos personas que saben sobre los siguientes conceptos: Sistema operativo, archivo e IP.
-Realizar una conclusión en base a los comentarios obtenidos
+# Preguntar a dos personas que saben sobre los siguientes conceptos: Sistema operativo, archivo e IP.
+Las respuestas hacia las preguntas que se realizaron a las personas fueron las siguientes:
+## *Abogado y Notario:*
+_Los archivos son los cuales sirven para trabajar en la computadora, contienen el texto o información (refiriendose a los archivos .docx de word y pdf), estos pueden crearse, editarse y eliminarse; el sistema operativo es "Windows" donde funcionan todos los programas de la computadora y la IP es una identificación de la computadora en la red..._
+## *Estudiante de Bachierato:*
+_Los archivos son los cuales contienen la información o datos de algún programa que puede volver a utilizarlos o no, se guardan en la memoria de la computadora (Disco Duro), pueden tener varias extensiones o tipos, el sistema operativo es el cuál sirve para montar las aplicaciones (solo ha utilizado windows pero conoce linux y MacOS) este funciona como un ambiente, la IP es la identificación y ubicación de un equipo conectado a una red de internet..._
+# Realizar una conclusión en base a los comentarios obtenidos
+Como se puede notar en ambas repuestas el concepto básico y adecuado lo tienen la mayoria de personas que trabajan y estudian, esto porque o han recibido algún tipo de capacitación o su propias actividades han requeirdo que aprendan estos términos y deficinciones; sin embargo, si falta tener más fundamentos y conocimentos de este tipo ya que algunas situaciones requieren de cambios o mejoras las cuales al tener un conocimiento limitado puede generar problemas de adaptación y productividad.
