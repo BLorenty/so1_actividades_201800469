@@ -47,3 +47,4 @@ Si el objetivo es deshabilitar para que no inicie automaticamente después de un
 ```bash
 sudo systemctl disable saludo.service
 ```
+![Consola](./img/console.png)
